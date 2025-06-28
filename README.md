@@ -11,3 +11,7 @@ infraestructura que considere más adecuados.
 # Repositorio A: 
 Definición del almacenamiento de archivos y el sistema de 
 mensajería que habilitará el procesamiento en segundo plano.
+
+**Repositorio B (Infraestructura base de apps):** https://github.com/SebastianHernandez69/Repositorio-B-Proyecto-Terraform
+
+**Repositorio C (Base de datos y caché):** https://github.com/SebastianHernandez69/Repositorio-C-Proyecto-Terraform
